@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-</picture>](https://pixel-profile.vercel.app/api/github-stats?username=IZSSERAFIM&screen_effect=true&theme=rainbow)
+https://pixel-profile.vercel.app/api/github-stats?username=IZSSERAFIM&screen_effect=true&theme=rainbow
 
 <!--
 [![IZSSERAFIM's GitHub stats](https://github-readme-stats-omega-one-96.vercel.app/api?username=IZSSERAFIM&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
