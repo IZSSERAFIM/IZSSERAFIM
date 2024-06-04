@@ -26,4 +26,9 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats-omega-one-96.vercel.app/api/top-langs/?username=IZSSERAFIM&layout=compact&langs_count=6" width="250" align="right"/>
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
