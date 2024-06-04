@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://pixel-profile.vercel.app/api/github-stats?username=IZSSERAFIM)
+<picture decoding="async" loading="lazy">
+  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=IZSSERAFIM&theme=summer">
+  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=IZSSERAFIM&screen_effect=true&theme=blue_chill">
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=IZSSERAFIM&theme=summer">
+</picture>
+
 <!--
 [![IZSSERAFIM's GitHub stats](https://github-readme-stats-omega-one-96.vercel.app/api?username=IZSSERAFIM&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 -->
