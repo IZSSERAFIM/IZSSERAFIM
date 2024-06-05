@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 -->
 ## noob coding 🥬🐦
 
+<img src="https://github-readme-stats-omega-one-96.vercel.app/api?username=IZSSERAFIM&show_icons=true&theme=radical" width="250" align="right"/>
+
 <img src="https://github-readme-stats-omega-one-96.vercel.app/api/top-langs/?username=IZSSERAFIM&layout=compact&langs_count=6" width="250" align="right"/>
 
 <!--START_SECTION:waka-->
