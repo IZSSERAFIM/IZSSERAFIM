@@ -28,11 +28,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-C++          3 hrs 40 mins   ███████████▒░░░░░░░░░░░░░   45.51 %
-JavaScript   1 hr 37 mins    █████░░░░░░░░░░░░░░░░░░░░   20.07 %
-ObjectiveC   1 hr 33 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.32 %
-Java         55 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.49 %
-Markdown     16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
+C++          6 hrs 14 mins   █████████████░░░░░░░░░░░░   51.89 %
+ObjectiveC   2 hrs 56 mins   ██████░░░░░░░░░░░░░░░░░░░   24.45 %
+JavaScript   1 hr 37 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.50 %
+Java         55 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 %
+Markdown     16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
 ```
 
 <!--END_SECTION:waka-->
