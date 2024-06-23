@@ -28,9 +28,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-C++          2 hrs 35 mins   █████████████████████▒░░░   84.77 %
-ObjectiveC   19 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.69 %
-Markdown     8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
+Python       2 hrs 52 mins   ███████████▒░░░░░░░░░░░░░   45.46 %
+C++          2 hrs 35 mins   ██████████▒░░░░░░░░░░░░░░   41.02 %
+Markdown     29 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 %
+ObjectiveC   19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
+Java         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
 ```
 
 <!--END_SECTION:waka-->
