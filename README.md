@@ -28,11 +28,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript        7 hrs 42 mins   ██████████▒░░░░░░░░░░░░░░   41.44 %
-Java              3 hrs 20 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.97 %
-Python            2 hrs 52 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.49 %
-Dart              2 hrs 29 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.36 %
-Markdown          49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
+JavaScript        7 hrs 42 mins   ████████▒░░░░░░░░░░░░░░░░   33.49 %
+Dart              6 hrs 21 mins   ███████░░░░░░░░░░░░░░░░░░   27.62 %
+Java              3 hrs 20 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.53 %
+Python            2 hrs 52 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.52 %
+Markdown          54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
 ```
 
 <!--END_SECTION:waka-->
