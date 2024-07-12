@@ -28,11 +28,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Dart             24 hrs 32 mins  ████████████████████████▓   98.85 %
-XML              12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
-YAML             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-JavaScript       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Dart             22 hrs 2 mins   ████████████████████████▓   98.72 %
+XML              12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+YAML             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+JavaScript       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
