@@ -28,10 +28,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-C++          2 hrs 33 mins   ████████████████████▒░░░░   80.83 %
-SSH Config   16 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.70 %
-CMake        13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 %
-Markdown     6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
+C++          2 hrs 33 mins   ████████████████████░░░░░   80.08 %
+SSH Config   16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 %
+CMake        13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.88 %
+Markdown     6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
+Dart         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
 ```
 
 <!--END_SECTION:waka-->
