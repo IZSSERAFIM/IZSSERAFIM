@@ -28,9 +28,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-C++     1 hr 8 mins     ██████████████████▒░░░░░░   73.22 %
-Dart    24 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.47 %
-CMake   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+C++     2 hrs 51 mins   █████████████████████▓░░░   87.07 %
+Dart    24 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.64 %
+CMake   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+JSON    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
