@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-C++     1 hr 22 mins    ██████████████████████░░░   87.76 %
-CMake   11 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.24 %
+C++     2 hrs 2 mins    ███████████████████████░░   91.46 %
+CMake   11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 %
 ```
 
 <!--END_SECTION:waka-->
