@@ -28,7 +28,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C++        47 mins         ████████████████▒░░░░░░░░   65.44 %
+CMake      15 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.79 %
+JSON       4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.80 %
+Other      3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
+Markdown   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
 ```
 
 <!--END_SECTION:waka-->
