@@ -28,11 +28,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-C++               4 hrs 15 mins   █████████░░░░░░░░░░░░░░░░   35.61 %
-Java              3 hrs 9 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.37 %
-XML               1 hr 47 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.99 %
-Java Properties   56 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 %
-Other             32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
+C++               3 hrs 49 mins   ████████▒░░░░░░░░░░░░░░░░   33.22 %
+Java              3 hrs 9 mins    ███████░░░░░░░░░░░░░░░░░░   27.35 %
+XML               1 hr 47 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.54 %
+Java Properties   56 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 %
+Other             32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
 ```
 
 <!--END_SECTION:waka-->
