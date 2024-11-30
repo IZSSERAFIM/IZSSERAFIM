@@ -28,10 +28,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-C++           18 hrs 17 mins  ██████████████████████░░░   88.13 %
-Objective-C   1 hr 24 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.77 %
-C             33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
-Other         30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
+C++           23 hrs 8 mins   ███████████████████████░░   91.81 %
+Other         1 hr 36 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 %
+C             23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
+Objective-C   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
