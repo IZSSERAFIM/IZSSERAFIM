@@ -28,9 +28,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-C            5 hrs 8 mins    ██████████████████▒░░░░░░   73.02 %
-C++          1 hr 53 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.93 %
-PowerShell   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+C                 5 hrs 8 mins    ███████████████░░░░░░░░░░   60.07 %
+C++               1 hr 53 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.09 %
+JavaScript        38 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 %
+Java              24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
+XML               17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
 ```
 
 <!--END_SECTION:waka-->
