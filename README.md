@@ -28,11 +28,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-C++               20 hrs 42 mins  ███████████████████████▒░   93.78 %
-Other             59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 %
-JavaScript        11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
-YAML              3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
-Properties        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+C++     20 hrs 42 mins  ███████████████████████▓░   95.26 %
+Other   59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
+YAML    2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
