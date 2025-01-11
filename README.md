@@ -28,8 +28,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-C++     2 hrs 31 mins   ██████████████████████░░░   88.02 %
-Other   20 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.98 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
