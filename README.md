@@ -28,8 +28,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-C++        4 hrs 6 mins    ████████████████████████▓   98.64 %
-Markdown   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+C++          4 hrs 6 mins    ███████████████████████▒░   92.81 %
+JavaScript   14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
+Markdown     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+YAML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
