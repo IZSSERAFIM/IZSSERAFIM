@@ -28,10 +28,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-C#           7 hrs 35 mins   ███████████████████░░░░░░   75.52 %
-C++          1 hr 19 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.19 %
-Python       1 hr 7 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   11.27 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+C#       7 hrs 35 mins   ███████████████████░░░░░░   75.54 %
+C++      1 hr 19 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.19 %
+Python   1 hr 7 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   11.27 %
 ```
 
 <!--END_SECTION:waka-->
