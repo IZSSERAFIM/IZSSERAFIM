@@ -28,8 +28,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-C#       6 hrs 33 mins   ██████████████████████▒░░   89.31 %
-Python   47 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.69 %
+C#   6 hrs 33 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
