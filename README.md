@@ -28,7 +28,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-C++   2 hrs 46 mins   █████████████████████████   99.99 %
+C++   2 hrs 46 mins   █████████████▒░░░░░░░░░░░   53.71 %
+C#    2 hrs 23 mins   ███████████▓░░░░░░░░░░░░░   46.28 %
 PDF   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
