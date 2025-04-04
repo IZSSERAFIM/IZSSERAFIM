@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-C#      2 hrs 3 mins    ██████████▒░░░░░░░░░░░░░░   41.65 %
-GLSL    1 hr 57 mins    ██████████░░░░░░░░░░░░░░░   39.85 %
-Other   54 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.50 %
+GLSL    1 hr 57 mins    ██████████████▓░░░░░░░░░░   58.74 %
+Other   54 mins         ███████░░░░░░░░░░░░░░░░░░   27.35 %
+C#      27 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.91 %
 ```
 
 <!--END_SECTION:waka-->
