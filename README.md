@@ -28,8 +28,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-GLSL   1 hr 57 mins    ████████████████████▒░░░░   80.90 %
-C#     27 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.10 %
+GLSL       1 hr 1 min      ███████████████░░░░░░░░░░   60.39 %
+C#         22 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.12 %
+Markdown   14 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.02 %
+Python     3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
+CSV        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 ```
 
 <!--END_SECTION:waka-->
