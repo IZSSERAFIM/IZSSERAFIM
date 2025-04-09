@@ -28,11 +28,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown          48 mins         ██████████████░░░░░░░░░░░   55.81 %
-Python            37 mins         ███████████░░░░░░░░░░░░░░   43.74 %
-CSV               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+Markdown          48 mins         ████████████▓░░░░░░░░░░░░   50.36 %
+Python            37 mins         ██████████░░░░░░░░░░░░░░░   39.46 %
+SSH Config        9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.77 %
+CSV               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
 Java              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-Properties        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
