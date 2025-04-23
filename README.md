@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python     13 hrs 8 mins   █████████████████████████   99.66 %
-C++        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Python     13 hrs 8 mins   ████████████████████████▒   97.64 %
+C#         17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
 Markdown   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
