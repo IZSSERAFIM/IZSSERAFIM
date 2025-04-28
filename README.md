@@ -28,11 +28,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python            6 hrs 14 mins   ███████████████████▓░░░░░   78.28 %
-C#                1 hr 29 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.64 %
-GLSL              12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
-Markdown          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-Groovy            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Python            1 hr 49 mins    █████████████░░░░░░░░░░░░   51.68 %
+C#                1 hr 29 mins    ██████████▒░░░░░░░░░░░░░░   41.99 %
+GLSL              12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
+Groovy            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
