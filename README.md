@@ -28,10 +28,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python     5 hrs 53 mins   ██████████████████████▒░░   89.87 %
-C++        39 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.08 %
-C#         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Python     4 hrs 49 mins   ███████████████████████▓░   94.15 %
+C++        17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
