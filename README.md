@@ -28,8 +28,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-C#     5 mins          ███████████████████░░░░░░   75.57 %
-GLSL   1 min           ██████░░░░░░░░░░░░░░░░░░░   24.43 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
