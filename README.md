@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 ![](https://pixel-profile.vercel.app/api/github-stats?username=IZSSERAFIM&screen_effect=true&theme=rainbow)
+-->
+![](https://pixel-profile.vercel.app/api/github-stats?username=IZSSERAFIM&screen_effect=false&theme=fuji&hide=avatar&dithering=true)
 
 <!--
 [![IZSSERAFIM's GitHub stats](https://github-readme-stats.vercel.app/api?username=IZSSERAFIM&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
