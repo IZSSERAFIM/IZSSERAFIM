@@ -28,7 +28,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python   2 hrs 41 mins   ████████████████████████▒   97.13 %
+JSON     4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
+jsonc    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
