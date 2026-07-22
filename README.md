@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 -->
 ## coding noob 🥬🐦
 
-<img src="https://[github-readme-stats](https://github-stats-extended.vercel.app/api/wakatime?username=IZSSERAFIM&layout=compact&langs_count=16&" width="250" align="right"/>
+<img src="https://github-stats-extended.vercel.app/api/wakatime?username=IZSSERAFIM&layout=compact&langs_count=16" width="250" align="right"/>
 
 <!--START_SECTION:waka-->
 
