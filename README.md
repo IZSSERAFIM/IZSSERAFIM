@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python                5 hrs 57 mins   ████████████████████▓░░░░   82.78 %
-Less                  47 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.01 %
-Markdown              15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
-Sublime Text Config   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
-JSON                  4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+Python                6 hrs 37 mins   █████████████████████▒░░░   85.11 %
+Less                  47 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.17 %
+Markdown              15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
+Sublime Text Config   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+JSON with Comments    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
