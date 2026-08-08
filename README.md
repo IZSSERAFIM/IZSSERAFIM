@@ -31,8 +31,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python   25 mins         ███████████████████████▓░   94.41 %
-jsonc    1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
+Python   24 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
